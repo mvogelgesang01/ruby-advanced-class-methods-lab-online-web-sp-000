@@ -49,3 +49,4 @@ def self.find_or_create_by_name(name)
     song.artist_name = split_filename[0]
     song
 end
+end
